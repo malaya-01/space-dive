@@ -7,7 +7,7 @@ const Header = () => {
             <header className='shadow sticky z-50 top-0'>
                 <nav className='bg-white border-gray-200 px-4 lg:px-6 py-2.5'>
                     <div className='flex flex-wrap justify-between items-center mx-auto max-w-screen-xl'>
-                        <Link to='/' className='flex items-center text-indigo-900'>
+                        <Link to='/' className='flex items-center text-indigo-500'>
                             <img
                                 src='./space_logo.png'
                                 className='mr-1 h-10 lg:h-14'

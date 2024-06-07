@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8'>
           <div className="md:flex md:justify-between">
             <div className="mb-6 md:mb-0">
-              <Link to='/' className='flex items-center text-indigo-900'>
+              <Link to='/' className='flex items-center text-indigo-500'>
                 <img
                   src='./space_logo.png'
                   className='mr-1 h-10 lg:h-14'
