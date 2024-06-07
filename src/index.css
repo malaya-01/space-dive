@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer utilities {
+    .double-arrow::before {
+        content: '>>';
+        font-weight: bold;
+        margin-right: 0.5rem;
+    }
+} */
